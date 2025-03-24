@@ -17,6 +17,11 @@ I'm a passionate software developer focusing on Java by day ☕, and a special p
 ![cheezi747's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheezi747&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezi747&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📌 Special Pins
+
+[![Swissgit](https://github-readme-stats.vercel.app/api/pin/?username=cheezicrew&repo=swissgit&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/CheeziCrew/Swissgit)
+[![changelogmaker](https://github-readme-stats.vercel.app/api/pin/?username=cheezicrew&repo=changelogmaker&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/CheeziCrew/changelogmaker)
 ---
 
 Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
