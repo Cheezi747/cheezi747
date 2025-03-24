@@ -14,9 +14,9 @@ I'm a passionate software developer focusing on Java by day ☕, and a special p
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ### 📊 GitHub Stats
-![cheezi747's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheezi747&show_icons=true&theme=ambient_gradient)
+![cheezi747's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheezi747&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezi747&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezi747&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
