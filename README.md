@@ -8,4 +8,4 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ### GitHub Stats
-![cheesi0747's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheezi0747&show_icons=true&theme=catppuccin_mocha)
+![cheesi0747's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheezi747&show_icons=true&theme=catppuccin_mocha)
