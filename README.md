@@ -24,3 +24,6 @@ I'm a passionate software developer focusing on Java by day ☕, and a special p
 ---
 
 Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
+
+
+:technologist: (Hi Tim)
