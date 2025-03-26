@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Cheezi747
+## Hi there 👋, I'm Cheezi747 🧀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cheezi747&color=brightgreen)
 
